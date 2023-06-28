@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Howard
 
-- 🔭 I successfully complete my training at AppWorks School.
+- 🔭 I have a strong background in full-stack development and have worked on various projects throughout my career.
 
 - 🌱 I'm currently developing a __Web Chat Room__ for that records a history of pictures and links - [Disatomic](https://github.com/HackHow/Disatomic-server)
 
